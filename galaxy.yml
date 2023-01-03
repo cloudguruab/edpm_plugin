@@ -1,4 +1,4 @@
-namespace: edpm_plugin
+namespace: com.cloudguruab.edpm_plugin
 name: edpm_plugin
 version: 1.0.0
 readme: README.md
