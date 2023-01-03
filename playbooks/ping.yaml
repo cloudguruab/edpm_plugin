@@ -1,0 +1,6 @@
+---
+- name: ping static inventory
+  hosts: all
+  tasks:
+  - name: Testing ping
+    ansible.builtin.ping:
