@@ -2,6 +2,12 @@
 - Goal of this repo is to showcase the possibility of outputting contents from a inventory yaml/env variable to organize ansible inventory. 
 
 ### Steps
+- Installing via ansible collection
+
+```bash
+ansible-galaxy collection install cloudguruab.edpm_plugin
+```
+
 - Set plugin location for ansible 
 
 ```bash
