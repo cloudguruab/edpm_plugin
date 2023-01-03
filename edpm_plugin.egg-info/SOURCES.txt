@@ -1,0 +1,8 @@
+LICENSE
+edpm_plugin.py
+setup.py
+edpm_plugin.egg-info/PKG-INFO
+edpm_plugin.egg-info/SOURCES.txt
+edpm_plugin.egg-info/dependency_links.txt
+edpm_plugin.egg-info/entry_points.txt
+edpm_plugin.egg-info/top_level.txt
