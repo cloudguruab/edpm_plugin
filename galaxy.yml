@@ -1,4 +1,4 @@
-namespace: ansibleee
+namespace: cloudguruab
 name: edpm_plugin
 version: 1.0.0
 readme: README.md
