@@ -8,6 +8,12 @@
 ansible-galaxy collection install cloudguruab.edpm_plugin
 ```
 
+- Listing current collections to verify installation
+
+```bash
+ansible-galaxy collection list
+```
+
 - Set plugin location for ansible 
 
 ```bash
