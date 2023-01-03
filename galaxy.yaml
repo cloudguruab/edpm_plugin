@@ -1,0 +1,17 @@
+namespace: edpm_plugin
+name: edpm_plugin
+version: 1.0.0
+readme: README.md
+authors:
+  - Adrian Brown <adrbrown@redhat.com>
+description: Custom external data plane management inventory plugin
+license:
+  - Apache-2.0
+tags:
+  - edpm_plugin
+dependencies:
+  community.crypto: '>=1.4.0'
+  community.general: '<5.0.0'
+repository: 'https://github.com/cloudguruab/edpm_plugin'
+homepage: 'https://github.com/cloudguruab/edpm_plugin'
+issues: 'https://github.com/cloudguruab/edpm_plugin/issues'

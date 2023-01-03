@@ -2,12 +2,6 @@
 - Goal of this repo is to showcase the possibility of outputting contents from a inventory yaml/env variable to organize ansible inventory. 
 
 ### Steps
-- Install locally 
-
-```bash
-pip install .
-```
-
 - Set plugin location for ansible 
 
 ```bash

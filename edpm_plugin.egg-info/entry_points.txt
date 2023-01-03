@@ -1,3 +1,0 @@
-[ansible.plugins.inventory]
-edpm_plugin = edpm_plugin:InventoryModule
-
