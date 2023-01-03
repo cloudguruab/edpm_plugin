@@ -3,7 +3,7 @@ from __future__ import (absolute_import, division, print_function)
 __metaclass__ = type
 
 from ansible.plugins.inventory import BaseInventoryPlugin
-from ansible.errors import AnsibleError, AnsibleParserError
+from ansible.errors import AnsibleParserError
 
 import os
 import yaml
